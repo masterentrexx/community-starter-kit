@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-my first homepage tutorial
+my first bot tutorial
 
 ## What it does
 
-here you will learn how to build a homepage
+here you will learn how to build a bot
 
 ## Getting started
 
