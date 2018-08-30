@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+my first homepage tutorial
 
 ## What it does
-
-FEATURES PLACEHOLDER
+here you will learn how to build a homepage
 
 ## Getting started
 
